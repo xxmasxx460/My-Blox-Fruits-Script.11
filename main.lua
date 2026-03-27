@@ -1,31 +1,9 @@
--- ULTIMATE MOBILE EDITION Code for Blox Fruits Script
+-- SMART DRACO V4 & VOLCANO - FINAL VERSION script
 
--- Flying feature
-function enableFlying()
-    -- code for flying
-end
+-- Features include:
+-- - Flying
+-- - Volcano Automation
+-- - Bone Collection
+-- - UI Improvements
 
--- Volcano island automation feature
-function automateVolcanoIsland()
-    -- code for automating volcano island
-end
-
--- Bone collection feature
-function collectBones()
-    -- code for collecting bones
-end
-
--- Improved UI feature
-function improveUI()
-    -- code for improving UI
-end
-
--- Main execution block
-function main()
-    enableFlying()
-    automateVolcanoIsland()
-    collectBones()
-    improveUI()
-end
-
-main()
+-- Your script goes here...
