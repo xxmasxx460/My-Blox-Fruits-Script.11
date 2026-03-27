@@ -1,6 +1,5 @@
--- New DRACO & VOLCANO FINAL HUB script content goes here --
+-- SMART PREHISTORIC ISLAND BOT - STABLE EDITION script code
+-- Add your bot commands and logic here
 
--- Example script logic
-print("Welcome to the DRACO & VOLCANO FINAL HUB!")
-
--- Add your script functions and code here
+-- Example command
+print("Hello, welcome to the SMART PREHISTORIC ISLAND BOT!")
