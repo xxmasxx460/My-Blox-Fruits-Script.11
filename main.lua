@@ -1,9 +1,6 @@
--- SMART DRACO V4 & VOLCANO - FINAL VERSION script
+-- New DRACO & VOLCANO FINAL HUB script content goes here --
 
--- Features include:
--- - Flying
--- - Volcano Automation
--- - Bone Collection
--- - UI Improvements
+-- Example script logic
+print("Welcome to the DRACO & VOLCANO FINAL HUB!")
 
--- Your script goes here...
+-- Add your script functions and code here
